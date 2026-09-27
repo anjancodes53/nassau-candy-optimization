@@ -4,6 +4,8 @@ Decision-intelligence system that predicts shipping outcomes under different
 factory configurations, recommends which products should be reassigned to
 alternative factories, and balances shipping efficiency against profitability.
 
+🚀 **[Open Live Project](https://cpx7fkm74dotggv9zj72vz.streamlit.app)**
+
 ## Project structure
 
 ```
